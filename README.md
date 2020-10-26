@@ -13,3 +13,5 @@ Tecnologias utilizadas:
 Dados para login na solução:
 	- email: login@email.com
 	- senha: 123456
+	
+Link para o vídeo de utilização: https://www.youtube.com/watch?v=wFMZ6UYAuFo
